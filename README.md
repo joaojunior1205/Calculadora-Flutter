@@ -1,4 +1,4 @@
-# financeiro
+# Calculator
 
 A new Flutter project.
 
